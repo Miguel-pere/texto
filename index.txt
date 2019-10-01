@@ -3,9 +3,3 @@ inicio de la historia
 
 primera parte de la historia desde master
 
-<<<<<<< HEAD
-=======
->>>>>>> texto2
-
-parte 3 de la historia dede la rama texto3
->>>>>>> texto3
