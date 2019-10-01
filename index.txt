@@ -1,9 +1,5 @@
 inicio de la historia
 
-<<<<<<< HEAD
+
 primera parte de la historia desde master
-=======
 
-parte 2 de la historia desde la rama texto2
-
->>>>>>> texto2
