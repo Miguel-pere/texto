@@ -7,3 +7,5 @@ primera parte de la historia desde master
 parte 2 de la historia desde la rama texto2
 
 >>>>>>> texto2
+
+parte 3 de la historia dede la rama texto3
